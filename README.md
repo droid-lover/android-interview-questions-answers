@@ -22,3 +22,6 @@ Please keep your love and support with <a href="https://www.youtube.com/channel/
 <a href ="https://youtu.be/ZvY1Bu2gqAc">JvmStatic Annotation in Kotlin - what is it, when to use it?</a>
 </br>
 </br>
+<a href ="https://youtu.be/nX8PF6XZxew">When to use Sealed Class, how it's different than Enum Class</a>
+</br>
+</br>
