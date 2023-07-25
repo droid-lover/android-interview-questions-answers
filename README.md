@@ -25,3 +25,9 @@ Please keep your love and support with <a href="https://www.youtube.com/channel/
 <a href ="https://youtu.be/nX8PF6XZxew">When to use Sealed Class, how it's different than Enum Class</a>
 </br>
 </br>
+
+Design Patterns for Scalabe Softwares 
+
+<a href ="https://youtu.be/RUC__cCQs0s">Builder Design Pattern what is it? - Code Implementation & Examples || Advantages & need</a>
+</br>
+</br>
