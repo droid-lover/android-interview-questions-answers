@@ -31,3 +31,6 @@ Design Patterns for Scalabe Softwares
 <a href ="https://youtu.be/RUC__cCQs0s">Builder Design Pattern what is it? - Code Implementation & Examples || Advantages & need</a>
 </br>
 </br>
+<a href ="https://youtu.be/efIO-5AHtMY">Factory Design Pattern - What, Why and How with Code & Examples</a>
+</br>
+</br>
