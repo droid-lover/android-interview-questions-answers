@@ -38,6 +38,11 @@ Please keep your love and support with <a href="https://www.youtube.com/channel/
 </a>
 </br>
 </br>
+<a href ="https://medium.com/native-mobile-bits/debug-your-android-apps-with-charles-proxy-991732d98ebd
+">How to Debug your Android apps with Charles Proxy.
+</a>
+</br>
+</br>
 
 
 
