@@ -31,6 +31,10 @@ Please keep your love and support with <a href="https://www.youtube.com/channel/
 <a href ="https://youtu.be/8Lyi93dzXio">WHAT? HOW? WHY? of Dependency Injection</a>
 </br>
 </br>
+<a href ="https://medium.com/native-mobile-bits/ssl-pinning-and-vulnerabilities-handling-in-android-57e347feb39b">SSL Pinning and Vulnerabilities Handling in Android.</a>
+</br>
+</br>
+
 
 
 Design Patterns for Scalabe Softwares 
