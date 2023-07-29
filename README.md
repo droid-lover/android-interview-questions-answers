@@ -34,6 +34,10 @@ Please keep your love and support with <a href="https://www.youtube.com/channel/
 <a href ="https://medium.com/native-mobile-bits/ssl-pinning-and-vulnerabilities-handling-in-android-57e347feb39b">SSL Pinning and Vulnerabilities Handling in Android.</a>
 </br>
 </br>
+<a href ="https://medium.com/native-mobile-bits/modular-android-app-architecture-build-to-scale-d6f402cbd93a">Modular Android App Architecture (Build to scale)
+</a>
+</br>
+</br>
 
 
 
