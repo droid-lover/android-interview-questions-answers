@@ -25,6 +25,13 @@ Please keep your love and support with <a href="https://www.youtube.com/channel/
 <a href ="https://youtu.be/nX8PF6XZxew">When to use Sealed Class, how it's different than Enum Class</a>
 </br>
 </br>
+<a href ="https://youtu.be/OGcOAJf2WyE">Garbage Collector in Android, what is it? how it works?</a>
+</br>
+</br>
+<a href ="https://youtu.be/8Lyi93dzXio">WHAT? HOW? WHY? of Dependency Injection</a>
+</br>
+</br>
+
 
 Design Patterns for Scalabe Softwares 
 
