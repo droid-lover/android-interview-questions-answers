@@ -61,6 +61,26 @@ Design Patterns for Scalabe Softwares
 
 -- more questions with answers coming soon. --
 
-## Found this project useful ❤️
-Support by clicking the ⭐ button on the upper right of this page. ✌️
+
+
+<div align="center">
+
+
+### Found this project useful ❤️ </br></br>Show some ❤️ by starring ⭐ this project repo!
+
+</div>
+
+## About the author
+### <a href="https://www.youtube.com/channel/UCTjQSpx2waqXTC37AgM8qyA/videos"> Sachin Rajput</a>
+
+I am a developer from India, built products for several startups, including 2 startups as Unicorns 🦄 
+
+  
+  Lets connect over here :) 
+  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-rajput-998b48105/)
+[![Website Badge](https://img.shields.io/badge/Medium-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://droid-lover.medium.com/)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-FFA500?style=flat-square&logo=Stackoverflow&logoColor=orange)](https://stackoverflow.com/users/7193506/sachin)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCTjQSpx2waqXTC37AgM8qyA)
+
 
